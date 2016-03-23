@@ -1,0 +1,24 @@
+div#footer {
+    float:right;
+    padding:5px;
+    font-size:10px;
+    color:#000;
+}
+
+form#feedback input {
+    margin: 5px 5px 5px 0;
+    width: 150px;
+}
+
+div#feedback {
+    margin-left:0px;
+    margin-top:30px;
+}
+
+div#feedback textarea, div#feedback p {
+    width:630px;
+}
+
+form#code {
+    margin-top:20px;
+}
